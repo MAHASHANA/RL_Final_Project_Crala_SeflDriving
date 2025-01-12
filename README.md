@@ -24,7 +24,7 @@ This project explores the design and training of a **Reinforcement Learning (RL)
 ## 🔗 Repository Includes:
 - Code for training and evaluating the RL agent.
 - Preprocessed data and logs.
-- Detailed project report: [Report Link](./RL_Project_Report(1).pdf).
+- Detailed project report: [Report Link](./RL_Project_report_draft_(1).pdf).
 
 ---
 
