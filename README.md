@@ -8,9 +8,9 @@
 
 ## 📝 Overview
 This project explores the design and training of a **Reinforcement Learning (RL)** agent for autonomous navigation in the **CARLA simulator**. Using a **Deep Q-Network (DQN)**, the agent learns to:
-- Avoid collisions.
-- Adhere to traffic rules.
-- Reach predefined destinations efficiently.
+- Avoid collisions just using camera feed.
+- Adhere to traffic rules and maintain a constant speed of 50 mi/h.
+
 
 ---
 
