@@ -24,12 +24,5 @@ This project explores the design and training of a **Reinforcement Learning (RL)
 ## 🔗 Repository Includes:
 - Code for training and evaluating the RL agent.
 - Preprocessed data and logs.
-- Detailed project report: [Report Link](./RL_Project_report_draft_(1).pdf).
+- Detailed project report: [Report Link](https://github.com/MAHASHANA/RL_Final_Project_Crala_SeflDriving/blob/main/RL%20Project%20report%20draft%20(1).pdf).
 
----
-
-## 📂 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/MAHASHANA/RL_Final_Project_Crala_SeflDriving
-   cd RL_Final_Project_Crala_SeflDriving
